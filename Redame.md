@@ -28,19 +28,6 @@ Markdown ofrece varias opciones para etiquetar texto, como:
 - **Bloques de código:** Usa triple backticks (\`\`\`) para bloques de código.
 - **Citas:** Usa `>` para crear citas.
 
-Ejemplo:
-```markdown
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-
-Texto en **negrita** y *cursiva*.
-
-1. Primer elemento de lista ordenada.
-2. Segundo elemento.
-
-- Lista desordenada.
-
 ---
 
 ## Comandos básicos de Git
